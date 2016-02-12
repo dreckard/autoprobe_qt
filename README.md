@@ -5,10 +5,10 @@ This was written in 2011 as part of a software automation retrofit for a JEOL Su
 
 See an abstract from a related talk given at Microscopy & Microanalysis 2013 [here](docs/M&M-2013-Abstract.pdf).
 
-#Dependencies
+## Dependencies
 clib_superprobe733 - for the TN-5500 interfacing
 
-#License
+## License
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
