@@ -3,6 +3,8 @@ Qt based frontend for automated X-ray mapping with a JEOL 733/TN-5500 combo.
 
 This was written in 2011 as part of a software automation retrofit for a JEOL Superprobe 733 EPMA which kept the original PDP-11 based Tracor Northern TN-5500 control computer and communicated with it via serial comms.
 
+See an abstract from a related talk given at Microscopy & Microanalysis 2013 [here](docs/M&M-2013-Abstract.pdf).
+
 #Dependencies
 clib_superprobe733 - for the TN-5500 interfacing
 
